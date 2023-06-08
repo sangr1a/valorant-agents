@@ -1,0 +1,90 @@
+{
+"agent": [
+  {
+  "name" : "Astra",
+  "role" : "Controller",
+  "playlevel" : "High"
+  },
+    {
+  "name" : "Breach",
+  "role" : "Controller",
+  "playlevel" : "High"
+  },
+    {
+  "name" : "Brimstone",
+  "role" : "Controller",
+  "playlevel" : "High"
+  },
+    {
+  "name" : "Chamber",
+  "role" : "Controller",
+  "playlevel" : "High"
+  },
+    {
+  "name" : "Cypher",
+  "role" : "Controller",
+  "playlevel" : "High"
+  },
+    {
+  "name" : "Fade",
+  "role" : "Controller",
+  "playlevel" : "High"
+  },
+    {
+  "name" : "Gekko",
+  "role" : "Controller",
+  "playlevel" : "High"
+  },
+    {
+  "name" : "Neon",
+  "role" : "Controller",
+  "playlevel" : "High"
+  },
+    {
+  "name" : "Omen",
+  "role" : "Controller",
+  "playlevel" : "High"
+  },
+    {
+  "name" : "Phoenix",
+  "role" : "Controller",
+  "playlevel" : "High"
+  },
+    {
+  "name" : "Raze",
+  "role" : "Controller",
+  "playlevel" : "High"
+  },
+    {
+  "name" : "Reyna",
+  "role" : "Controller",
+  "playlevel" : "High"
+  },
+    {
+  "name" : "Sage",
+  "role" : "Controller",
+  "playlevel" : "High"
+  },
+      {
+  "name" : "Skye",
+  "role" : "Controller",
+  "playlevel" : "High"
+  },
+      {
+  "name" : "Sova",
+  "role" : "Controller",
+  "playlevel" : "High"
+  },
+      {
+  "name" : "Viper",
+  "role" : "Controller",
+  "playlevel" : "High"
+  },
+      {
+  "name" : "Yoru",
+  "role" : "Controller",
+  "playlevel" : "High"
+  }
+
+]
+}
